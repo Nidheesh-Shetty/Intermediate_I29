@@ -20,7 +20,7 @@ for x in schedule["medications"]:
   time = datetime.strptime(str_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day) #Conversions and stuff
 
   #Time windows
-  difference = abs((now-time).total_seconds()) / 60) #Seconds to minutes (/60)
+  difference = abs((now-time).total_seconds() / 60) #Seconds to minutes (/60)
   if difference <= time_window_minutes: #30
     today = now.strftime("%Y-%m-%d")
     filter = ( #just to make sure
