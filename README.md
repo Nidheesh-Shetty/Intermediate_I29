@@ -22,4 +22,4 @@ We used datasets from chatgpt i guess
 
 ## Citations
 **ChatGPT**: Used exclusively for brainstorming features, structuring this README (non-code text only), and identifying potential datasets. https://chatgpt.com/share/684bf0bf-6814-8013-ad4e-e282fe2b8a6d
-**ChatGPT**: Used to generate simple datasets to represent a realistic elderly user. (`medication_schedule.json` and `user_samples.csv`) https://chatgpt.com/share/684bfcb1-83dc-8013-8548-3b2375360118
+**ChatGPT**: Used to generate simple datasets to represent a realistic elderly user. (`medication_schedule.json` and `user_samples.csv`) (https://chatgpt.com/share/684bfcb1-83dc-8013-8548-3b2375360118)
