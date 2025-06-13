@@ -11,10 +11,12 @@ def load_user(path="data/user_samples.csv"):
   return pd.read_csv(path) #Reading the csv file
 
 def check_medication(schedule, user_logs, user_id="user_001", time_window_minutes=30):
-  now = datetime.now #Gets the date and time now
+  now = datetime.now() #Gets the date and time now
   medications_due = []
 
 for x in schedule["medications"]:
   name = x["name"]
   str_time = x["time"]
   time = datetime.strptime(str_time, "%H:%M").replace(year=now.year, month=now.month, day=now.day) #Conversions and stuff
+  
+  
