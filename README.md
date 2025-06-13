@@ -21,4 +21,4 @@ We used datasets from chatgpt i guess
 ---
 
 ## Citations
-**ChatGPT**: Used exclusively for brainstorming features, structuring this README (non-code text only), and identifying potential datasets
+**ChatGPT**: Used exclusively for brainstorming features, structuring this README (non-code text only), and identifying potential datasets. https://chatgpt.com/share/684bf0bf-6814-8013-ad4e-e282fe2b8a6d
