@@ -32,4 +32,4 @@ for x in schedule["medications"]:
 
     if today_logs.empty or today_logs.iloc[-1]["taken"].lower() != "yes": #WOw this was hard, basically, if the logs are empty or latest one not taken yet, add it to the list
       medications_due.append(name) 
-  return medications_due
+return medications_due
