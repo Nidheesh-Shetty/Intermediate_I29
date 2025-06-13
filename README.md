@@ -12,3 +12,13 @@ Greetings, this project proposes an AI-powered reminder bot that assists individ
 ## How to Setup
 
 blah blah blah here 
+
+---
+## Dataset Information
+
+We used datasets from chatgpt i guess
+
+---
+
+## Citations
+**ChatGPT**: Used exclusively for brainstorming features, structuring this README (non-code text only), and identifying potential datasets
