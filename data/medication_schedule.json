@@ -1,1 +1,26 @@
-
+{
+  "user_id": "user_001",
+  "name": "Eleanor Thompson",
+  "age": 74,
+  "conditions": ["Hypertension", "Type 2 Diabetes"],
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "instructions": "Take once daily in the morning with water",
+      "times": ["08:00"]
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "instructions": "Take twice daily with meals",
+      "times": ["08:00", "18:00"]
+    },
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "instructions": "Take once daily at bedtime",
+      "times": ["21:00"]
+    }
+  ]
+}
