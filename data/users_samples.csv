@@ -1,1 +1,21 @@
-
+user_id,name,age,condition,medication_name,timestamp,taken
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Amlodipine,2025-06-08 08:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-08 08:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-08 18:30,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Atorvastatin,2025-06-08 22:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Amlodipine,2025-06-09 08:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-09 08:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-09 18:30,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Atorvastatin,2025-06-09 22:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Amlodipine,2025-06-10 08:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-10 08:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-10 18:30,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Atorvastatin,2025-06-10 22:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Amlodipine,2025-06-11 08:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-11 08:00,yes
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-11 18:30,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Atorvastatin,2025-06-11 22:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Amlodipine,2025-06-12 08:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-12 08:00,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Metformin,2025-06-12 18:30,no
+user_001,John Tan,78,"hypertension, type 2 diabetes, high cholesterol",Atorvastatin,2025-06-12 22:00,yes
