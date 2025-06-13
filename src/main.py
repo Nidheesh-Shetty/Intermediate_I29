@@ -1,5 +1,6 @@
 import streamlit as st
 from utilities import load_medication, load_user, check_medication #Getting stuff from utilities
+from playsound import playsound
 
 st.title("Medicine Reminder AI")
 
@@ -13,6 +14,7 @@ due_meds = check_medication(schedule, user_logs, user_id=user_id, time_window=ti
 
 if due_meds: #Is this a boolean
   st.subheader("Medications you need to take immediately:")
+  playsound('beep-beep-beep-beep-80262.mp3')
   for med in due_meds:
     st.markdown(f"- **{med}**")
 else:
